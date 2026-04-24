@@ -13,7 +13,7 @@
 - Real-time personalized job matching
 - Built on top of my previous ETL pipeline
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # 1. Clone the repo
