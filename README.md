@@ -6,14 +6,14 @@
 
 **Project 3** — Intelligent Job Recommendation System that suggests relevant jobs based on user preferences and skills.
 
-## ✨ Features
+##  Features
 - Content-based recommendations using **TF-IDF + Cosine Similarity**
 - Interactive Streamlit web application
 - Sidebar filters (Country, Industry, Employment Type)
 - Real-time personalized job matching
 - Built on top of my previous ETL pipeline
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # 1. Clone the repo
@@ -28,28 +28,27 @@ pip install -r requirements.txt
 
 # 4. Run the recommendation app
 streamlit run app.py
+```
 
 
+## Technologies
 
-py
-🛠️ Technologies
+- TF-IDF Vectorization + Cosine Similarity
+- Streamlit (Interactive UI)
+- Pandas, Scikit-learn, SQLAlchemy
+- Reuses cleaned data from Project 1 ETL Pipeline
 
-TF-IDF Vectorization + Cosine Similarity
-Streamlit (Interactive UI)
-Pandas, Scikit-learn, SQLAlchemy
-Reuses cleaned data from Project 1 ETL Pipeline
+## Skills Demonstrated
 
-🎯 Skills Demonstrated
-
-Building recommendation systems from scratch
-Text processing and similarity search
-Creating user-friendly data applications
-End-to-end project integration (ETL → ML → UI)
+- Building recommendation systems from scratch
+- Text processing and similarity search
+- Creating user-friendly data applications
+- End-to-end project integration (ETL → ML → UI)
 
 
-Related Projects
+## Related Projects
 
-Project 1: Job Postings ETL Pipeline
+Project 1: Job Postings ETL Pipeline <br>
 Project 2: Fraudulent Job Detection
 
 
